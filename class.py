@@ -30,6 +30,7 @@ bench2 = Bench("Mishra", 2)
 
 bench1.displayBench()
 bench2.displayBench()
+print "Total bunch count is %d" % Bench.benchCount
 
 
 
